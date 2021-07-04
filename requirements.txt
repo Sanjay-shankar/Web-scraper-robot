@@ -1,0 +1,2 @@
+* Robocorp Lab or VS Code with Robocorp Extension - https://robocorp.com/get-started/ (You can download Robocorp Lab & Install VS code extension from here) 
+* Robocorp Cloud account - For interfacing the activity in cloud.
